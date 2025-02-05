@@ -33,8 +33,9 @@ I'm a web developer with a strong foundation in **JavaScript, React, Tailwind CS
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=babladey275&layout=compact&theme=radical)
 
 ## 📬 Let's Connect!
-- 💼 **LinkedIn**: [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/babladey)
-- 📘 **Facebook**: [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/yourFacebookProfile)
+- 💼 **LinkedIn**: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/babladey)
+- 📘 **Facebook**: [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/babla.dey.50/)
+
 
 
 ---
