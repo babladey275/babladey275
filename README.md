@@ -32,7 +32,7 @@ I'm a web developer with a strong foundation in **React** and a growing passion 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=babladey275&show_icons=true&hide_title=true&count_private=true&hide_border=true&theme=radical)
 
 ### 🔥 GitHub Streak
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=babladey275&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=babladey275&theme=dark)](https://git.io/streak-stats)
 
 ### 📊 Languages Used
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=babladey275&layout=compact&theme=radical)
