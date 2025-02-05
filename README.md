@@ -28,17 +28,11 @@ I'm a web developer with a strong foundation in **React** and a growing passion 
 ### 🗄️ Databases
 - ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) **MongoDB**
 
-### 🔧 Tools & DevOps
-- ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white) **Git & GitHub**
-- ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white) **Heroku**
-- ![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=flat&logo=netlify&logoColor=white) **Netlify**
-- ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white) **Vercel**
-
 ## 📈 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=babladey275&show_icons=true&hide_title=true&count_private=true&hide_border=true&theme=radical)
 
 ### 🔥 GitHub Streak
-[![GitHub Streak](https://streak-stats.demolab.com/?user=babladey275)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=babladey275)](https://git.io/streak-stats)
 
 ### 📊 Languages Used
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=babladey275&layout=compact&theme=radical)
