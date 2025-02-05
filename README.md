@@ -1,4 +1,4 @@
-# ![Banner](https://your-banner-image-url.com)
+# ![Banner](https://i.ibb.co.com/C3p7Fyzt/profile-BG.jpg)
 
 # 👋 Hi, I'm Babla Dey 
 ## 💻 Web Developer 
