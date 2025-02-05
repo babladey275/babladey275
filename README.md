@@ -17,7 +17,11 @@ I'm a web developer with a strong foundation in **JavaScript, React, Tailwind CS
  ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white) 
  ![DaisyUI](https://img.shields.io/badge/-DaisyUI-000000?style=flat&logo=data:image/svg+xml;base64,...) 
  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) 
- ![React.js](https://img.shields.io/badge/-React.js-61DAFB?style=flat&logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)  ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) 
+ ![React.js](https://img.shields.io/badge/-React.js-61DAFB?style=flat&logo=react&logoColor=black) 
+ ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white) 
+ ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
+ ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black) 
+ ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) 
 
 ## 📈 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=babladey275&show_icons=true&hide_title=true&count_private=true&hide_border=true&theme=radical)
