@@ -1,14 +1,14 @@
 # ![Banner](https://your-banner-image-url.com)
 
-# 👋 Hi, I'm [Your Name]  
-## 💻 Web Developer | Frontend & Backend Enthusiast
+# 👋 Hi, I'm Babla Dey 
+## 💻 Web Developer | Frontend Enthusiast | Exploring Next.js & Backend
 
-I am a passionate and dedicated web developer with expertise in both frontend and backend development. I love creating responsive, user-friendly websites and web applications. My main focus is on building high-quality, scalable solutions using the latest web technologies.
+I'm a web developer with a strong foundation in **React** and a growing passion for building full-stack applications. I love creating responsive, user-friendly websites and web applications. My main focus is on building high-quality, scalable solutions using the latest web technologies.
 
 ## 🏃‍♂️ Current Activities
 - 🚀 Currently exploring **Next.js** for building fast and dynamic web applications.
-- 💡 Working on a **Tourism Website** to help users plan and explore travel destinations with ease.
-- 🎯 Learning more about **GraphQL** to improve API handling and data fetching in web apps.
+- 💡 Working on a **pic-seek** AI project.
+- 🎯 Deepening my knowledge of **MongoDB** and **backend development**.
 
 ## 🔧 My Skills & Technologies
 
@@ -35,7 +35,7 @@ I am a passionate and dedicated web developer with expertise in both frontend an
 - ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white) **Vercel**
 
 ## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&hide_title=true&count_private=true&hide_border=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=babladey275&show_icons=true&hide_title=true&count_private=true&hide_border=true&theme=radical)
 
 ### 🔥 GitHub Streak
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=babladey275&theme=radical)
