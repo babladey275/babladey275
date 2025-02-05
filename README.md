@@ -1,9 +1,9 @@
 # ![Banner](https://your-banner-image-url.com)
 
 # 👋 Hi, I'm Babla Dey 
-## 💻 Web Developer | Frontend Enthusiast | Exploring Next.js & Backend
+## 💻 Web Developer 
 
-I'm a web developer with a strong foundation in **React** and a growing passion for building full-stack applications. I love creating responsive, user-friendly websites and web applications. My main focus is on building high-quality, scalable solutions using the latest web technologies.
+I'm a web developer with a strong foundation in **JavaScript, React, Tailwind CSS** and a growing passion for building full-stack applications. I love creating responsive, user-friendly websites and web applications. My main focus is on building high-quality, scalable solutions using the latest web technologies.
 
 ## 🏃‍♂️ Current Activities
 - 🚀 Currently exploring **Next.js** for building fast and dynamic web applications.
