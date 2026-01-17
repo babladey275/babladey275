@@ -1,4 +1,4 @@
-# ![Banner](https://i.ibb.co.com/C3p7Fyzt/profile-BG.jpg)
+# ![Banner](https://res.cloudinary.com/duddufcbb/image/upload/v1768668253/cover_bnhnuy.png)
 
 # 👋 Hi, I'm Babla Dey  
 ## 💻 Full Stack Web Developer  
