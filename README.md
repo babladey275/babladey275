@@ -1,4 +1,4 @@
-<img src="https://res.cloudinary.com/duddufcbb/image/upload/v1768668253/cover_bnhnuy.png" alt="Banner" height="150px" width="100%">
+<img src="https://res.cloudinary.com/duddufcbb/image/upload/v1768668253/cover_bnhnuy.png" alt="Banner" height="350px" width="100%">
 
 # 👋 Hi, I'm Babla Dey  
 ## 💻 Full Stack Web Developer  
